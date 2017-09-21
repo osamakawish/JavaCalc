@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Program {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		
 		// To interpret inputs and provide output.
 		Interpretor I = new Interpretor();
